@@ -1,0 +1,6 @@
+From: attacker@fakebank.com
+To: user@example.com
+Subject: Your account is locked!
+
+Please verify your account.
+http://malicious-link.com
