@@ -2,5 +2,11 @@ From: attacker@fakebank.com
 To: user@example.com
 Subject: Your account is locked!
 
-Please verify your account.
+
+Dear user,
+Your account has been locked. Please click the link below to verify your password immediately:
 http://malicious-link.com
+
+
+Regards,
+Fake Bank Security Team
